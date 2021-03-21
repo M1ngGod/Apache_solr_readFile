@@ -1,4 +1,5 @@
 # apache solr 任意文件读取
+apache solr任意文件读取，支持批量，可导入文件配合fofa采集器一键式检测
 
 ![image](https://user-images.githubusercontent.com/81064151/111894001-0ddd1780-8a42-11eb-954d-bc1dded9ea6e.png)
 ![image](https://user-images.githubusercontent.com/81064151/111894006-16355280-8a42-11eb-90c5-ddf78ddb9cf0.png)
